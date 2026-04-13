@@ -1,10 +1,10 @@
 import React from 'react'
-import ALLhome from './Allhome' 
+import ALLHome from "./ALLHome";
 
 function App() {
   return (
     <div>
-      <ALLhome />
+      <ALLHome />
     </div>
   )
 }

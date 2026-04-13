@@ -12,7 +12,8 @@ export default function Nav() {
         <div className='h-16 bg-[#131722] flex justify-between items-center px-4'>
             
             <div>
-                <img src="./public/logo-dark(1).webp" alt="" />
+                <img src="./build/logo-dark(1).webp " alt="logo" />
+                
             </div>
 
             <div className='flex items-center gap-6'>

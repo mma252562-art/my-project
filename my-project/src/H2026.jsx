@@ -571,7 +571,7 @@ const TVs = [
 
   return (
     
-    <div className="w-full h-screen object-cover bg-[url(home.jpeg)] ">
+    <div className="w-full h-screen object-cover bg-[url(./home.jpeg)] ">
       <div className=" container m-auto pt-60 ">
 
         <h1 className='text-white font-bold text-5xl'>OUR LETEST MOVIES</h1><br></br>
